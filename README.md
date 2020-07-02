@@ -21,7 +21,7 @@
   <a href="#-Projeto">🚧 Projeto</a>
 </p>
 <p align="center">
-  <a href="https://github.com/fajzanetti/GoFinances-Web#readme">⬅ Desafio Anterior</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚫
+  <a href="https://github.com/fajzanetti/desafio-database-upload#readme">⬅ Desafio Anterior</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚫
 </p>
 
 # 🚀 Sobre o desafio
